@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": "9223",
+      "name": "Teste Projeto",
+      "budget": "1300",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 678,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "111",
+          "description": "Tste",
+          "id": "d767fb19-2aa5-4265-9141-7d3fda7abaa2"
+        },
+        {
+          "name": "teste",
+          "cost": "111",
+          "description": "fawefawefawef",
+          "id": "a5832f72-d794-43d5-8ab3-3f4122845d0f"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
